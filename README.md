@@ -1,0 +1,1 @@
+# simulador-coletor-zebra
