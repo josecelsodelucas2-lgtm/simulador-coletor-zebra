@@ -2,6 +2,6 @@
 │
 ├── README.md        # Documentação do projeto
 └── index.html       # Aplicação completa (HTML + CSS + JS unificados)
-💻 Como Rodar LocalmenteClone o repositório:git clone https://github.com/josecelsodelucas2-lgtm/coletor.git
+💻 Como Rodar https://josecelsodelucas2-lgtm.github.io/simulador-coletor-zebra/
 Acesse a pasta do projeto:cd coletor
 Abra o arquivo index.html em qualquer navegador (Google Chrome, Firefox, Edge, etc.) com dois cliques.👨‍💻 AutorDesenvolvido por José Celso de LucasGitHub: @josecelsodelucas2-lgtm
